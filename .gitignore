@@ -1,0 +1,11 @@
+# Node / package files
+node_modules/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
